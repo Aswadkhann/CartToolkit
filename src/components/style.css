@@ -1,0 +1,18 @@
+.aboutmain{
+    background-color: red !important;
+    border:2px solid green;
+    display: flex;
+    justify-content: space-evenly;
+}
+/* .about-img{
+    width:500px !important;
+} */
+@keyframes progress-fill {
+    0% {
+      background-position: 0 0;
+    }
+    100% {
+      background-position: -200% 0;
+    }
+  }
+  
